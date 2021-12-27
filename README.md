@@ -56,6 +56,7 @@ I trained a model on a dataset with a few hundreds images of labeled ID’s (i.e
 * a changed model from the orignal one, and comparing the two
 * a transfer learning model with VGG-16 model
 
+I implmented also early stopping technique, which look at the best validation loss and save the model.
 
 
 
