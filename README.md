@@ -3,7 +3,7 @@
 <h3 align="center">CNN and Hyperparameter</h3>
 
   <p align="center">
-    This was an assignment I took in the deep learning course at KFUPM `ICS471` at term 211.
+    This was an assignment I took in the deep learning course at KFUPM (ICS471) at term 211.
     <br />
     <a href="https://github.com/ahmadxcix/CNN-and-Hyperparameter"><strong>Explore the docs »</strong></a>
     <br />
